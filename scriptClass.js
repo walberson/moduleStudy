@@ -61,3 +61,6 @@ class Atleta {
 
 let atleta1 = new Atleta("Paty", 22, 1.78, 55);
 console.log(atleta1.faixa(80));
+
+// !FAÇA UMA CLASSE CHAMADA PESSOA QUE CONTÉM MÉTODOS E ATRIBUTOS SEUS
+// !INFORMAÇÕES E AÇÕES SUAS E DO SEU DIA A DIA
